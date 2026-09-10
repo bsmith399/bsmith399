@@ -23,12 +23,8 @@ I am an entry-level Cybersecurity Analyst holding a **B.S. degree** ([View CeDip
 
 ## ## 🚀 Cybersecurity Projects
 
-### Project 1: 
-
-**Objective:** To design and engineer a functional SIEM monitoring pipeline in an isolated home lab environment, capable of collecting, correlating, and alerting on security telemetry from diverse endpoints.
-
-*   **Repository & Docs:** [Link to detailed write-up and rule configurations]
-
-My dedicated virtual home lab runs on Oracle VM VirtualBox as an isolated testing environment for security telemetry, threat detection, and cross-platform log ingestion.
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 
 
