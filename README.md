@@ -25,6 +25,6 @@ I am an entry-level Cybersecurity Analyst holding a **B.S. degree** ([View CeDip
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="[https://google.com](https://github.com/bsmith399/Home-Lab-)">Home Lab</a>|
 
 
