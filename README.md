@@ -59,7 +59,7 @@ Designed and built a virtualized home lab environment to simulate real-world att
 
 ## 📄 Education & Credentials
 
-* **B.S. [Information Technology  , e.g., Cybersecurity ]** |University of North Alabama]
+* **B.S. [Information Technology  , Cybersecurity ]** |University of North Alabama]
 * **CompTIA Security+** | Issued: [June, 2026]
 
 ---
