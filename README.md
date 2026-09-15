@@ -46,7 +46,7 @@ Designed and built a virtualized home lab environment to simulate real-world att
 **Objective:** Deploy and configure an end-to-end SIEM environment to monitor baseline activity and trigger custom alerts on malicious actions.
 * **Key Tasks:**
   * Configured Wazuh agents across Windows and Ubuntu virtual machines.
-  * Wrote **custom XML detection rules** to flag brute-force authentication attempts and unauthorized file modifications.
+  * Wrote custom XML detection rules to flag brute-force authentication attempts and unauthorized file modifications.
   * Analyzed log streams to minimize false positives and extract actionable indicators of compromise (IOCs).
 * **Skills Demonstrated:** Log aggregation, custom SIEM rule creation, threat detection.
 * **Repository:** `[Link to Project Directory/Files]`
@@ -56,7 +56,7 @@ Designed and built a virtualized home lab environment to simulate real-world att
 ### 2. Network Traffic & Protocol Analysis
 **Objective:** Capture and analyze live network traffic to identify anomalous behavior, plain-text credentials, and protocol misconfigurations.
 * **Key Tasks:**
-  * Generated and captured baseline network traffic using **Wireshark** and `tcpdump`.
+  * Generated and captured baseline network traffic using Wireshark and tcpdump.
   * Analyzed PCAP files to trace malicious payload deliveries and examine TCP handshakes.
   * Documented packet inspection findings and mapped observed behavior to the MITRE ATT&CK framework.
 * **Skills Demonstrated:** Deep packet inspection, protocol analysis, network forensics.
