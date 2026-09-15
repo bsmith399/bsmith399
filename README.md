@@ -6,9 +6,16 @@
 ---
 ## 👤 About Me
 
-Driven **Cybersecurity Analyst** with a strong foundation in threat detection, network forensics, and security operations. Holding a B.S. degree and the **CompTIA Security+** certification, I focus on analyzing network traffic and configuring SIEM telemetry to identify and mitigate security threats. 
+*I'm a cybersecurity analyst with hands-on experience in threat detection, network forensics, and security operations. I hold a B.S. and the CompTIA Security+ certification, and most of my day-to-day work involves analyzing network traffic and tuning SIEM telemetry to catch threats worth acting on.
 
-I actively maintain a virtualized home lab environment (Windows, Ubuntu, and Kali Linux) running **Wazuh** for log aggregation and custom detection rules, alongside **Wireshark** for deep packet inspection. Passionate about continuous learning, defense-in-depth strategies, and translating complex security events into actionable incident reports.
+
+I work directly with network security and administration — TCP/IP, DNS, firewall rules, and traffic behavior — and have spent enough time in packet captures to know what normal looks like on a network well enough to notice when it isn't. I've carried incidents through the full response lifecycle: detecting the anomaly, scoping it, containing it, and documenting what happened. I run vulnerability scans and manage remediation to close weaknesses before someone else finds them, and I use Python and PowerShell to automate routine detection and remediation tasks so my attention stays on the alerts that need judgment. I've worked within NIST and PCI-DSS requirements, since controls only matter when they map to something an organization is accountable for.
+
+
+On the SIEM side, I've built and maintained a virtualized lab environment across Windows, Ubuntu, and Kali Linux, running Wazuh for log aggregation and writing custom detection rules against it. Wireshark handles the packet-level work when I need to understand what actually happened on the wire rather than what an alert says happened. I've also worked with Splunk and Microsoft Sentinel for log analysis and correlation.
+
+
+The part I'm strongest at is what comes after detection: working out what a set of events means and writing it up so the people who need to respond can act on it quickly. That means clear incident reports, clean documentation, and close collaboration with the IT and engineering teams who own the affected systems. I'm currently building depth in defense-in-depth architecture and detection engineering.*
 
 ---
 
