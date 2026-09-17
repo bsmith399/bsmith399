@@ -39,7 +39,7 @@ Designed and built a virtualized home lab environment to simulate real-world att
 
 ## 📁 Key Projects
 
-### 1. Enterprise Threat Detection & Log Analysis with Wazuh
+### 1. [Active Directory SIEM Lab](https://github.com/bsmith399/active-directory-siem-lab)
 **Objective:** Deploy and configure an end-to-end SIEM environment to monitor baseline activity and trigger custom alerts on malicious actions.
 * **Key Tasks:**
   * Configured Wazuh agents across Windows and Ubuntu virtual machines.
