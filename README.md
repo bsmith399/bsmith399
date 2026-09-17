@@ -46,7 +46,7 @@ Designed and built a virtualized home lab environment to simulate real-world att
   * Wrote custom XML detection rules to flag brute-force authentication attempts and unauthorized file modifications.
   * Analyzed log streams to minimize false positives and extract actionable indicators of compromise (IOCs).
 * **Skills Demonstrated:** Log aggregation, custom SIEM rule creation, threat detection.
-* **Repository:** `[Link to Project Directory/Files]`
+
 
 ---
 
