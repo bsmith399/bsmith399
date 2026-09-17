@@ -19,10 +19,7 @@ The part I'm strongest at is what comes after detection: working out what a set 
 
 ---
 
-## 🛠️ Technical Skills & Certifications
-
-**Certifications:**
-* CompTIA Security+
+## 🛠️ Technical Skills 
 
 **Tools & Technologies:**
 * **SIEM / Detection:** Wazuh
@@ -50,17 +47,6 @@ Designed and built a virtualized home lab environment to simulate real-world att
   * Analyzed log streams to minimize false positives and extract actionable indicators of compromise (IOCs).
 * **Skills Demonstrated:** Log aggregation, custom SIEM rule creation, threat detection.
 * **Repository:** `[Link to Project Directory/Files]`
-
----
-
-### 2. Network Traffic & Protocol Analysis
-**Objective:** Capture and analyze live network traffic to identify anomalous behavior, plain-text credentials, and protocol misconfigurations.
-* **Key Tasks:**
-  * Generated and captured baseline network traffic using Wireshark and tcpdump.
-  * Analyzed PCAP files to trace malicious payload deliveries and examine TCP handshakes.
-  * Documented packet inspection findings and mapped observed behavior to the MITRE ATT&CK framework.
-* **Skills Demonstrated:** Deep packet inspection, protocol analysis, network forensics.
-* **Repository:** `[Link to PCAP Analysis / Documentation]`
 
 ---
 
