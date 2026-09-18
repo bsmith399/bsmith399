@@ -47,6 +47,8 @@ Designed and built a virtualized home lab environment to simulate real-world att
   * Analyzed log streams to minimize false positives and extract actionable indicators of compromise (IOCs).
 * **Skills Demonstrated:** Log aggregation, custom SIEM rule creation, threat detection.
 
+### 🚀 More Projects Coming Soon
+* Stay tuned for upcoming cybersecurity labs currently in development!
 
 ---
 
